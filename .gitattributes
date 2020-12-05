@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.DS_Store
+.cache
+dist
+node_modules
+yarn-error.log
+
